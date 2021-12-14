@@ -26,6 +26,7 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity {
     ArrayList<PuzzlePiece> pieces;
 
+    private int a;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
